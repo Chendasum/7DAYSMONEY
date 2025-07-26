@@ -66,7 +66,7 @@ app.use((req, res, next) => {
 // Function to get the Railway URL
 function getRailwayUrl() {
   // Always return Railway domain for production
-  return "https://7daymoneyflowreset-production.up.railway.app";
+  return "https://7daysmoney-production.up.railway.app";
 }
 
 // Enhanced bot initialization for webhook mode
