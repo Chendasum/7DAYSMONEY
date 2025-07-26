@@ -4,13 +4,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "node index.js",
-    "db:push": "drizzle-kit push:pg"
+    "dev": "node index.js"
   },
-  "keywords": ["telegram", "bot", "financial", "education", "cambodia"],
-  "author": "Chendasum",
-  "license": "ISC",
-  "description": "7-Day Money Flow Reset Telegram Bot for Cambodia",
   "dependencies": {
     "dotenv": "^17.2.0",
     "drizzle-kit": "^0.31.4",
